@@ -1,0 +1,23 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjU0NDY3NywidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDg0NjIyOENjN0Q5NkRjNUJGZjE3QjA2ZGM0NWI5Qzc2ODNGNDQzNWIifQ",
+    "payload": "eyJkb21haW4iOiJmcmFtZS12Mi1kZW1vLXRhdS52ZXJjZWwuYXBwIn0",
+    "signature": "MHg5M2ZmMWE2OWZlOGIwYzQzZDBjYzAzM2FhMDVhZGQzMDA3ZWJkYTNlOGJjMmVkMDAxNTJhZDM5ODMyNjQ3ZTljMDRkNDVmNWIxZGE1M2VlZGYzNmZkNDk4MTdhMzk0Mjc4ZmI0OGU4MjVlZjJlMzNkNjUyYTAzNTg3MDcxZjA5NjFj"
+  },
+  "frame": {
+    "version": "1",
+    "name": "OnchainKit",
+    "subtitle": "Base on OnchainKit",
+    "description": "Base on OnchainKit",
+    "screenshotUrls": [],
+    "iconUrl": "https://i.imgur.com/GPiz8XD.jpeg",
+    "splashImageUrl": "https://i.imgur.com/H8yDhgC.pn",
+    "splashBackgroundColor": "#000000",
+    "homeUrl": "https://base-minikit-app.vercel.app",
+    "webhookUrl": "https://your-domain.com/webhook",
+    "tagline": "Base on OnchainKit",
+    "ogTitle": "Base on OnchainKit",
+    "ogDescription": "Base on OnchainKit",
+    "ogImageUrl": "https://i.imgur.com/GPiz8XD.jpeg"
+  }
+}
